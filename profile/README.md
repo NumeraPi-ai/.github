@@ -1,4 +1,4 @@
-# 🌐 NumeraPi.ai - The Future of Cloud-Based Coding Workspaces 🌐
+# NumeraPi.ai - The Future of Cloud-Based Coding Workspaces
 
 Welcome to **NumeraPi.ai**, a revolutionary cloud-based coding environment designed to empower developers and data scientists to work seamlessly without the need for high-performance hardware. With GitHub integration, AI-powered code analysis, and automated environment setup, NumeraPi.ai brings you the power of Azure Cloud directly in your browser.
 
