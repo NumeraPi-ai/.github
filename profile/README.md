@@ -1,10 +1,10 @@
 # NumeraPi.ai - The Future of Cloud-Based Coding Workspaces
 
-Welcome to **NumeraPi.ai**, a revolutionary cloud-based coding environment designed to empower developers and data scientists to work seamlessly without the need for high-performance hardware. With GitHub integration, AI-powered code analysis, and automated environment setup, NumeraPi.ai brings you the power of Azure Cloud directly in your browser.
+Welcome to **OSCOWL ai Studio**, a cloud-based coding environment designed to empower developers and data scientists to work seamlessly without the need for high-performance hardware. With GitHub integration, AI-powered code analysis, and automated environment setup, NumeraPi.ai brings you the power of Azure Cloud directly in your browser.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **GitHub Integration**: Initialize, sync, and manage repositories directly from your coding workspace.
 - **Cloud-Based Coding Workspace**: Work on large-scale projects without heavy hardware dependencies.
@@ -15,7 +15,7 @@ Welcome to **NumeraPi.ai**, a revolutionary cloud-based coding environment desig
 
 ---
 
-## 📈 Why Choose NumeraPi.ai?
+## Why Choose NumeraPi.ai?
 
 NumeraPi.ai redefines cloud coding by combining the power of AI and Azure Cloud, enabling users to:
 - **Eliminate Dependency on Local Hardware**: Say goodbye to GPU or CPU limitations.
@@ -27,7 +27,7 @@ Whether you're a developer, data scientist, or tech enthusiast, NumeraPi.ai prov
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 NumeraPi.ai is built with a robust tech stack optimized for cloud-based, AI-augmented development:
 
@@ -41,7 +41,7 @@ NumeraPi.ai is built with a robust tech stack optimized for cloud-based, AI-augm
 
 ---
 
-## 🧑‍💻 Getting Started
+## Getting Started
 
 1. **Sign Up**: Create an account or log in using your GitHub credentials.
 2. **Connect to GitHub**: Link your GitHub account to sync your repositories.
@@ -49,7 +49,7 @@ NumeraPi.ai is built with a robust tech stack optimized for cloud-based, AI-augm
 
 ---
 
-## 📦 Pricing and Plans
+## Pricing and Plans
 
 NumeraPi.ai offers flexible plans to suit different needs:
 
@@ -60,7 +60,7 @@ NumeraPi.ai offers flexible plans to suit different needs:
 
 Additional usage is available on a pay-as-you-go basis. For more details, visit our [pricing page](https://numerapi.ai/pricing).
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to NumeraPi.ai! If you'd like to contribute:
 1. Fork the repository.
@@ -73,13 +73,13 @@ For more details, see our [contribution guidelines](CONTRIBUTING.md).
 
 ---
 
-## 📝 License
+## License
 
 NumeraPi.ai is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
+## Contact
 
 Have questions or feedback? Reach out to us at **support@numerapi.ai** or join our [community forum](https://community.numerapi.ai) to connect with other users and developers.
 
